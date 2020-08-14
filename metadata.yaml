@@ -1,0 +1,27 @@
+_repo: Orione_62901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morselli, Ercole Luigi
+    birthdate: 1882
+    deathdate: 1921
+    gutenberg_agent_id: '40893'
+    url: http://www.gutenberg.org/2009/agents/40893
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ercole_Luigi_Morselli
+    - https://it.wikipedia.org/wiki/Ercole_Luigi_Morselli
+description: ''
+gutenberg_issued: '2020-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62901'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Orione
+url: http://www.gutenberg.org/ebooks/62901
